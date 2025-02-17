@@ -6,8 +6,6 @@ permalink: /contact/
 <!-- Bootstrap CSS -->
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-# Contact Us
-
 We’d love to hear from you! Please fill out the form below and we'll get back to you as soon as possible.
 
 <!-- Form starts here -->
