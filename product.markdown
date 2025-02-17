@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /product/
+classes: wide
 ---
 
 this is our product
