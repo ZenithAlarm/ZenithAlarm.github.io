@@ -3,6 +3,8 @@ layout: single
 title: Contact us
 permalink: /contact/
 ---
+<!-- Bootstrap CSS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
 # Contact Us
 
