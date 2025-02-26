@@ -14,25 +14,25 @@ We’d love to hear from you! Please fill out the form below and we'll get back 
   <!-- First Name -->
   <div class="form-group">
     <label for="first_name">First Name</label>
-    <input type="text" class="form-control" id="first_name" name="first_name" required>
+    <input type="text" class="form-control" id="first_name" name="firstName" required>
   </div>
 
   <!-- Last Name -->
   <div class="form-group">
     <label for="last_name">Last Name</label>
-    <input type="text" class="form-control" id="last_name" name="last_name" required>
+    <input type="text" class="form-control" id="last_name" name="lastName" required>
   </div>
 
   <!-- Email -->
   <div class="form-group">
     <label for="email">Email</label>
-    <input type="email" class="form-control" id="email" name="_replyto" required>
+    <input type="email" class="form-control" id="email" name="email" required>
   </div>
 
   <!-- Request -->
   <div class="form-group">
     <label for="request">Request</label>
-    <textarea class="form-control" id="request" name="request" rows="4" required></textarea>
+    <textarea class="form-control" id="request" name="message" rows="4" required></textarea>
   </div>
 
   <!-- Submit Button -->
