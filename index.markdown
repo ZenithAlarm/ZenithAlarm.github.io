@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Book A Demo"
       url: "/contact"
-excerpt: "Reinventing the alarm clock"
+excerpt: "The Worlds Most Advanced Alarm Clock"
 intro: 
   - excerpt: 'Abdul Haseeb wants to make the alarm clock goated'
 
