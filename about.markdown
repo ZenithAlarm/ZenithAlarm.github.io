@@ -17,7 +17,7 @@ umar:
   - image_path: /assets/umar_headshot.jpg
     alt: "Umar"
     title: "Umar - Software Lead"
-    excerpt: "Umar graduated from the University of Waterloo with a degree in Computer Engineering in 2024. Despite working full time as a full stack engineer, waking up in the morning is still the hardest part of his day. Checking slack isn't as dreadful as getting out of bed. No one wants to be face dread first thing in the morning, so that's where Zenith Alarm comes in. He has technical background across software, including embedded, android applications, React web applications and FastAPI backend systems. Umar also likes playing tennis, staying active, travelling, and occasionally making YouTube videos ... but before he can do the things he loves, he has to get out of his bed and start his day with energy."
+    excerpt: "Umar graduated from the University of Waterloo with a degree in Computer Engineering in 2024. Despite working full time as a full stack engineer, waking up in the morning is still the hardest part of his day. Checking slack isn't as dreadful as getting out of bed. No one wants to be face dread first thing in the morning, so that's where Zenith Alarm comes in. Umar has technical background across software, including embedded, android applications, React web applications and FastAPI backend systems. Umar also likes playing tennis, staying active, travelling, and occasionally making YouTube videos ... but before he can do the things he loves, he has to get out of his bed and start his day with energy."
 ---
 
 
