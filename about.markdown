@@ -22,7 +22,7 @@ umar:
 
 
 
-{% include feature_row id="haseeb" type="left" %}
+{% include feature_row id="haseeb" type="left" %}{: .align-center}
 
 {% include feature_row id="hossam" type="left" %}
 
