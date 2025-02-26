@@ -11,7 +11,7 @@ header:
       url: "/contact"
 excerpt: "The Worlds Most Advanced Alarm Clock"
 intro: 
-  - excerpt: 'Abdul Haseeb wants to make the alarm clock goated'
+  - excerpt: ''
 
 ---
 

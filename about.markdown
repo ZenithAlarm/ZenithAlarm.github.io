@@ -4,7 +4,7 @@ title: About the team
 permalink: /about/
 classes: wide
 haseeb:
-  - image_path: /assets/haseeb_headshot.png
+  - image_path: /assets/haseeb_headshot.jpg
     alt: "Abdul Haseeb"
     title: "Haseeb - Founder & CEO - Mechanical Lead"
     excerpt: 'Haseeb is in his final year of Mechatronics Engineering at the University of Waterloo and the visionary founder behind Zenith. After experiencing firsthand how the wake-up process can be the worst part of the day for many people, he resolved to develop the world’s most advanced alarm clock to finally fix that problem once and for all. Haseeb has honed his mechanical engineering expertise at organizations like Teledyne FLIR, where he worked on drones, and Dana, where he developed highly efficient electric valves with potential patents pending. Beyond driving Zenith’s mission, Haseeb stays active by playing soccer and working out, maintaining the energy and focus needed to revolutionize the way people start their day.'
