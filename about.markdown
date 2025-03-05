@@ -9,10 +9,10 @@ haseeb:
     title: "Haseeb - Founder & CEO - Mechanical Lead"
     excerpt: 'Haseeb is in his final year of Mechatronics Engineering at the University of Waterloo and the visionary founder behind Zenith. After experiencing firsthand how the wake-up process can be the worst part of the day for many people, he resolved to develop the world’s most advanced alarm clock to finally fix that problem once and for all. Haseeb has honed his mechanical engineering expertise at organizations like Teledyne FLIR, where he worked on drones, and Dana, where he developed highly efficient electric valves with potential patents pending. Beyond driving Zenith’s mission, Haseeb stays active by playing soccer and working out, maintaining the energy and focus needed to revolutionize the way people start their day.'
 hossam:
-  - image_path: /assets/no_headshot.png
+  - image_path: /assets/hossam_headshot.jpg
     alt: "placeholder image 2"
     title: "Hossam - Electrical Lead"
-    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean iaculis metus volutpat, dictum magna quis, tincidunt lacus. Fusce condimentum leo ligula, et sodales sapien maximus non. Nulla facilisis eget mauris vitae maximus. Suspendisse elit lacus, egestas a magna at, vestibulum ultrices justo. Mauris ut ullamcorper nibh, ut molestie odio. Donec ultricies magna sit amet ante eleifend sodales. Aenean blandit odio est, nec rhoncus arcu fermentum at. Donec interdum massa porta sollicitudin lobortis. In tempor lacus et tortor gravida, ac consectetur magna blandit. Donec vel elit non justo luctus bibendum ut quis felis. Pellentesque eget eros neque. Curabitur pharetra efficitur laoreet. Suspendisse ac orci faucibus, congue nunc a, ullamcorper erat. Vivamus a iaculis neque.'
+    excerpt: 'Hossam is a third-year Electrical Engineering student at the University of Waterloo, specializing in electrical design and testing. Having completed co-ops with companies like Nokia and Tesla, he’s passionate about creating solutions to everyday challenges. Waking up early for 8:30 classes and labs is a struggle he knows all too well, which is where Zenith comes in, an advanced alarm clock designed to make mornings easier. Outside of academics, Hossam is an avid reader and soccer player, and he believes starting the day feeling energized is key to maintaining productivity and enjoying his hobbies.'
 umar:
   - image_path: /assets/umar_headshot.jpg
     alt: "Umar"
