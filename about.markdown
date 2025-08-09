@@ -27,5 +27,3 @@ haseeb:
 
 {% include feature_row id="haseeb" type="left" class="feature-haseeb" %}
 
-{% include feature_row id="haseeb" type="left" %}{: .align-center}
-
