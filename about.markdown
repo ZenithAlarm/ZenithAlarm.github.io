@@ -12,10 +12,15 @@ haseeb:
 ---
 {% include feature_row id="haseeb" type="left" class="feature-haseeb" %}
 <style>
-
 .feature-haseeb .feature__item {
   display: flex;
   align-items: center;
+}
+
+.feature-haseeb .feature__image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 </style>
 
